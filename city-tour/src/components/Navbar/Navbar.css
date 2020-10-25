@@ -1,0 +1,30 @@
+.navbar {
+    position: fixed;
+    background: black;
+    display: grid;
+    grid-template-columns: auto 1fr;
+}
+
+/* .menu{
+    display: grid;
+} */
+
+.grup{
+    display: grid;
+   grid-column-gap: 3rem;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.list{
+    color: whitesmoke;
+    text-decoration: none;
+    align-content: center;
+    list-style-type: none;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+.active{
+    color: green;
+}

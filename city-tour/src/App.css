@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Oswald&display=swap");
+
+
+body{
+    margin: 0px;
+    padding: 0px;
+    background: rgb(104, 86, 86);
+    font-family: 'Josefin Sans', sans-serif;
+}
